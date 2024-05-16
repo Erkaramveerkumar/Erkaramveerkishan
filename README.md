@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkaramveerkishan" alt="erkaramveerkishan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/erkaramveerkishan" target="blank"><img src="https://img.shields.io/twitter/follow/erkaramveerkishan?logo=twitter&style=for-the-badge" alt="erkaramveerkishan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erkaramveer_kr" target="blank"><img src="https://img.shields.io/twitter/follow/erkaramveerkishan?logo=twitter&style=for-the-badge" alt="erkaramveerkishan" /></a> </p>
 
 - 🔭 I’m currently working as a Subject matter expert on Physics Wallah. *Subject matter expert*
 
